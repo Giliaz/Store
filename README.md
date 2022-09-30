@@ -1,2 +1,2 @@
 # Store
-project of sore
+project of store
