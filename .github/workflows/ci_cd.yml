@@ -35,4 +35,4 @@ jobs:
       - name: Run tests
         run: |
           python src/manage.py test && flake8
-          python src/manage.py test && black  
+          python src/manage.py test && black src 
